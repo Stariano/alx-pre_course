@@ -1,0 +1,1 @@
+This repo will contain all of my future work with ALX scholarship that will be ongoing for the next 12 Months. Im confident that it'll change my perspective in the whole software engineering industry.
