@@ -1,6 +1,0 @@
-git push -u origin main
-git commit -m "Stuff"
-git add *
-git rm *
-git init
-git pull
